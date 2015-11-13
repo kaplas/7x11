@@ -1,0 +1,29 @@
+body {
+	background-color: #CBF4D6;
+}
+
+#circle-container {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	text-align: center;
+}
+
+#circle {
+	margin: 0 auto;
+}
+
+.text {
+	color: #979B86;
+	font-weight: 100;
+	font-size: 1.2rem;
+	opacity: 0;
+	display: block;
+	position: absolute;
+	top: 50%;
+	left: 0;
+	right: 0;
+	text-align: center;
+	margin-top: -0.5em;
+}
